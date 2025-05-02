@@ -35,7 +35,4 @@ Feel free to contribute by:
 - Improving explanations.
 - Fixing any issues.
 
-## License
-This project is licensed under the MIT License.
-
 Happy Coding!
